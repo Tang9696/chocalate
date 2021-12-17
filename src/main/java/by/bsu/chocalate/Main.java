@@ -17,6 +17,7 @@ public class Main {
         division.add(chocalateSweet);
         division.add(chocalateBar);
 
+        //TODO: add todo
         DivisionPrinter printer = new DivisionPrinter();
         printer.print(division);
         DivisionCalculator calculator = new DivisionCalculator();
