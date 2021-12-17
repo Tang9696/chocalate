@@ -26,5 +26,6 @@ public class Main {
         System.out.println("Total weight = " + totalWeight);
         System.out.println("Total price = " + totalPrice);
 
+
     }
 }
