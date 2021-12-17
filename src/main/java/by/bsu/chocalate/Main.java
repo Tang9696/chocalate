@@ -25,8 +25,6 @@ public class Main {
         double totalPrice = calculator.calculatorTotalprice(division);
         System.out.println("Total weight = " + totalWeight);
         System.out.println("Total price = " + totalPrice);
-        System.out.println("Total price = " + totalPrice);
-        System.out.println("Total price = " + totalPrice);
-        System.out.println("Total price = " + totalPrice);
+
     }
 }
